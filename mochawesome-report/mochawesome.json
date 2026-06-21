@@ -5,9 +5,9 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2026-06-21T22:20:54.921Z",
-    "end": "2026-06-21T22:20:54.924Z",
-    "duration": 3,
+    "start": "2026-06-21T22:33:11.637Z",
+    "end": "2026-06-21T22:33:11.639Z",
+    "duration": 2,
     "testsRegistered": 1,
     "passPercent": 100,
     "pendingPercent": 0,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "de97ef9a-6e17-4b29-8625-38e5c90f1bef",
+      "uuid": "3dc08956-6f69-4ff7-91e0-b52b0d3f5bd9",
       "title": "",
       "fullFile": "C:\\QA\\meu-projeto\\calculadora.test.js",
       "file": "\\calculadora.test.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "6f3a0012-6611-4606-b8e3-4fa23f189a66",
+          "uuid": "aaf7988f-1f20-4aac-a90b-e22823801925",
           "title": "Calculadora",
           "fullFile": "C:\\QA\\meu-projeto\\calculadora.test.js",
           "file": "\\calculadora.test.js",
@@ -47,15 +47,15 @@
               "context": null,
               "code": "assert.equal(soma(2,3),5);",
               "err": {},
-              "uuid": "e7b6d6d2-7e3e-4ee9-8420-174a5fbd5f0f",
-              "parentUUID": "6f3a0012-6611-4606-b8e3-4fa23f189a66",
+              "uuid": "c233eb9d-b1e1-46a9-89de-f70b9ec3e955",
+              "parentUUID": "aaf7988f-1f20-4aac-a90b-e22823801925",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "e7b6d6d2-7e3e-4ee9-8420-174a5fbd5f0f"
+            "c233eb9d-b1e1-46a9-89de-f70b9ec3e955"
           ],
           "failures": [],
           "pending": [],
